@@ -1,0 +1,4 @@
+db_secrets.py
+**.venv**
+__pycache__
+**.env

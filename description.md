@@ -1,0 +1,3 @@
+'''
+I created a Google Cloud Platform (GCP) function stored in an Azure DevOps repository to interact with a PostgreSQL database. The function listed and added products to a catalog, authenticating with the database using a secret from GCP Secret Manager. Responses were formatted in JSON, and I tested the function using a Python client. Database credentials were securely managed outside the repository to maintain security best practices.
+'''
